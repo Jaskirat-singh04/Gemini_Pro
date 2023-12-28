@@ -12,16 +12,23 @@ Contributing:
 
 We're thrilled to have you join the community and participate in making this bot even better! There are many ways you can contribute:
 
-Bug reporting: Encountered an issue or unexpected behavior? Let us know by creating a GitHub issue.
-Feature suggestions: Have an idea for a new feature that would benefit the bot? We'd love to hear it! Share your suggestions through discussion threads or pull requests.
-Code contributions: Feel free to fork this repository and contribute your code improvements or additions. Make sure to follow our coding standards and submit a pull request for review.
+##Bug reporting:
+Encountered an issue or unexpected behavior? Let us know by creating a GitHub issue.
+
+##Feature suggestions:
+Have an idea for a new feature that would benefit the bot? We'd love to hear it! Share your suggestions through discussion threads or pull requests.
+
+##Code contributions: Feel free to fork this repository and contribute your code improvements or additions. Make sure to follow our coding standards and submit a pull request for review.
 (please add custom hyper-parameter settings for each users.)
-Documentation improvements: The documentation could always be better! If you see any areas that need clarification or additional information, don't hesitate to contribute edits or improvements.
+
+##Documentation improvements: 
+The documentation could always be better! If you see any areas that need clarification or additional information, don't hesitate to contribute edits or improvements.
 Remember:
 
 Be respectful and helpful in your interactions with other contributors.
 Follow our coding standards and guidelines when submitting code contributions.
 Clearly explain your suggestions and bug reports to facilitate efficient understanding and resolution.
+
 We're excited to see what you can do to help this bot reach its full potential!
 
 ![image](https://github.com/Jaskirat-singh04/Gemini_Pro/assets/83869412/bdf267b6-20f3-4371-a28e-36a18359a754)
