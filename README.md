@@ -4,6 +4,9 @@ Welcome to the repository for your exciting new Gemini Pro bot! Here you'll find
 ## What is it?
 Gemini Pro isn't just a language model; it's a creative powerhouse, a code-wielding wizard , and a tireless knowledge explorer, all rolled into one. It fuels your artistic expression, supercharges your productivity, and bridges the code gap. Dive into scientific mysteries with its help, or imagine AI-powered healthcare. This ever-evolving entity, with its cutting-edge edge, redefines our relationship with technology.
 
+## Demo link
+https://huggingface.co/spaces/Jaskirat-04/Gemini_Pro
+
 ## Getting Started:
 fork this repository 
 ```https://github.com/Jaskirat-singh04/Gemini_Pro.git```
