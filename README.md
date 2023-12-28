@@ -12,7 +12,7 @@ Contributing:
 
 We're thrilled to have you join the community and participate in making this bot even better! There are many ways you can contribute:
 
-#Bug reporting:
+## Bug reporting:
 Encountered an issue or unexpected behavior? Let us know by creating a GitHub issue.
 
 ##Feature suggestions:
