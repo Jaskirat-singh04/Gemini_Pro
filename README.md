@@ -4,7 +4,7 @@ Welcome to the repository for your exciting new Gemini Pro bot! Here you'll find
 What is it?
 Gemini Pro isn't just a language model; it's a creative powerhouse, a code-wielding wizard , and a tireless knowledge explorer, all rolled into one. It fuels your artistic expression, supercharges your productivity, and bridges the code gap. Dive into scientific mysteries with its help, or imagine AI-powered healthcare. This ever-evolving entity, with its cutting-edge edge, redefines our relationship with technology.
 
-Getting Started:
+##Getting Started:
 
 
 
@@ -15,13 +15,14 @@ We're thrilled to have you join the community and participate in making this bot
 ## Bug reporting:
 Encountered an issue or unexpected behavior? Let us know by creating a GitHub issue.
 
-##Feature suggestions:
+## Feature suggestions:
 Have an idea for a new feature that would benefit the bot? We'd love to hear it! Share your suggestions through discussion threads or pull requests.
 
-##Code contributions: Feel free to fork this repository and contribute your code improvements or additions. Make sure to follow our coding standards and submit a pull request for review.
+## Code contributions:
+Feel free to fork this repository and contribute your code improvements or additions. Make sure to follow our coding standards and submit a pull request for review.
 (please add custom hyper-parameter settings for each users.)
 
-##Documentation improvements: 
+## Documentation improvements: 
 The documentation could always be better! If you see any areas that need clarification or additional information, don't hesitate to contribute edits or improvements.
 Remember:
 
