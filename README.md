@@ -1,14 +1,17 @@
 # Gemini_Pro
 Welcome to the repository for your exciting new Gemini Pro bot! Here you'll find information about its purpose, capabilities, and how you can get involved.
 
-What is it?
+## What is it?
 Gemini Pro isn't just a language model; it's a creative powerhouse, a code-wielding wizard , and a tireless knowledge explorer, all rolled into one. It fuels your artistic expression, supercharges your productivity, and bridges the code gap. Dive into scientific mysteries with its help, or imagine AI-powered healthcare. This ever-evolving entity, with its cutting-edge edge, redefines our relationship with technology.
 
 ## Getting Started:
+fork this repository 
 ```https://github.com/Jaskirat-singh04/Gemini_Pro.git```
 
+run this command
+```pip install requirements.txt```
 
-Contributing:
+## You can contribute:
 
 We're thrilled to have you join the community and participate in making this bot even better! There are many ways you can contribute:
 
